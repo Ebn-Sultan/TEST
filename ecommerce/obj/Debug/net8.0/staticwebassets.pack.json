@@ -1,0 +1,457 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ecommerce.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ecommerce.j3ji23ecfq.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\css\\MyAccount.css",
+      "PackagePath": "staticwebassets\\css\\MyAccount.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\css\\styleDashbourd.css",
+      "PackagePath": "staticwebassets\\css\\styleDashbourd.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\images\\0d7cc6ce-2643-4e2a-990c-f9888f40c620_d083ef63-128e-457a-97f3-8ae0f3fe270f_ASUS ROG Zephyrus S - Evan Winters _ Triumph.jpeg",
+      "PackagePath": "staticwebassets\\images\\0d7cc6ce-2643-4e2a-990c-f9888f40c620_d083ef63-128e-457a-97f3-8ae0f3fe270f_ASUS ROG Zephyrus S - Evan Winters _ Triumph.jpeg"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\images\\2bb22dc5-9489-4993-adb3-d808a5956de5_2559d00a-0afd-4388-864b-735208fc0220_ChatGPT Image Apr 29, 2025, 05_53_08 PM.png",
+      "PackagePath": "staticwebassets\\images\\2bb22dc5-9489-4993-adb3-d808a5956de5_2559d00a-0afd-4388-864b-735208fc0220_ChatGPT Image Apr 29, 2025, 05_53_08 PM.png"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\images\\3fa8fbab-7d3d-4799-a6b4-e9614a2c98cc_769a1a3f-ea5a-42e8-b912-b38c28d67cbd_Notebook Huawei.jpeg",
+      "PackagePath": "staticwebassets\\images\\3fa8fbab-7d3d-4799-a6b4-e9614a2c98cc_769a1a3f-ea5a-42e8-b912-b38c28d67cbd_Notebook Huawei.jpeg"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\images\\cd58da2f-f67b-4046-8cd2-47f171fd6b06_769a1a3f-ea5a-42e8-b912-b38c28d67cbd_Notebook Huawei.jpeg",
+      "PackagePath": "staticwebassets\\images\\cd58da2f-f67b-4046-8cd2-47f171fd6b06_769a1a3f-ea5a-42e8-b912-b38c28d67cbd_Notebook Huawei.jpeg"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\images\\user.jpg",
+      "PackagePath": "staticwebassets\\images\\user.jpg"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\img\\2559d00a-0afd-4388-864b-735208fc0220_ChatGPT Image Apr 29, 2025, 05_53_08 PM.png",
+      "PackagePath": "staticwebassets\\img\\2559d00a-0afd-4388-864b-735208fc0220_ChatGPT Image Apr 29, 2025, 05_53_08 PM.png"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\img\\769a1a3f-ea5a-42e8-b912-b38c28d67cbd_Notebook Huawei.jpeg",
+      "PackagePath": "staticwebassets\\img\\769a1a3f-ea5a-42e8-b912-b38c28d67cbd_Notebook Huawei.jpeg"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\img\\88e71360-2c73-4641-89a4-d5ffbcc426cc_download (7).jpg",
+      "PackagePath": "staticwebassets\\img\\88e71360-2c73-4641-89a4-d5ffbcc426cc_download (7).jpg"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\img\\8b246fdc-582b-4e9e-a3e1-c8c3c51c0e3d_efb699c7-de50-463d-8e7e-c809f718faf2_download (6).jpg",
+      "PackagePath": "staticwebassets\\img\\8b246fdc-582b-4e9e-a3e1-c8c3c51c0e3d_efb699c7-de50-463d-8e7e-c809f718faf2_download (6).jpg"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\img\\9c578eba-b336-4da0-a696-6e84f780ad8a_2559d00a-0afd-4388-864b-735208fc0220_ChatGPT Image Apr 29, 2025, 05_53_08 PM.png",
+      "PackagePath": "staticwebassets\\img\\9c578eba-b336-4da0-a696-6e84f780ad8a_2559d00a-0afd-4388-864b-735208fc0220_ChatGPT Image Apr 29, 2025, 05_53_08 PM.png"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\img\\d083ef63-128e-457a-97f3-8ae0f3fe270f_ASUS ROG Zephyrus S - Evan Winters _ Triumph.jpeg",
+      "PackagePath": "staticwebassets\\img\\d083ef63-128e-457a-97f3-8ae0f3fe270f_ASUS ROG Zephyrus S - Evan Winters _ Triumph.jpeg"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\img\\d441eccc-a375-48b2-89c3-cba973135a13_product02.png",
+      "PackagePath": "staticwebassets\\img\\d441eccc-a375-48b2-89c3-cba973135a13_product02.png"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\img\\efb699c7-de50-463d-8e7e-c809f718faf2_download (6).jpg",
+      "PackagePath": "staticwebassets\\img\\efb699c7-de50-463d-8e7e-c809f718faf2_download (6).jpg"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\img\\f75488d9-63b4-4296-90cb-b0c0429afeca_download (11).jpg",
+      "PackagePath": "staticwebassets\\img\\f75488d9-63b4-4296-90cb-b0c0429afeca_download (11).jpg"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\img\\product06.png",
+      "PackagePath": "staticwebassets\\img\\product06.png"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\img\\product08.png",
+      "PackagePath": "staticwebassets\\img\\product08.png"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\js\\Admins.js",
+      "PackagePath": "staticwebassets\\js\\Admins.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\js\\MyAccount.js",
+      "PackagePath": "staticwebassets\\js\\MyAccount.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\js\\Users.js",
+      "PackagePath": "staticwebassets\\js\\Users.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\js\\jquery.zoom.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.zoom.min.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\js\\mainDashbourd.js",
+      "PackagePath": "staticwebassets\\js\\mainDashbourd.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\js\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\js\\nouislider.min.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\signalr.js\\jquery.signalR.js",
+      "PackagePath": "staticwebassets\\lib\\signalr.js\\jquery.signalR.js"
+    },
+    {
+      "Id": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\wwwroot\\lib\\signalr.js\\jquery.signalR.min.js",
+      "PackagePath": "staticwebassets\\lib\\signalr.js\\jquery.signalR.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ecommerce.props",
+      "PackagePath": "build\\ecommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ecommerce.props",
+      "PackagePath": "buildMultiTargeting\\ecommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ecommerce.props",
+      "PackagePath": "buildTransitive\\ecommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ecommerce.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ecommerce.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
