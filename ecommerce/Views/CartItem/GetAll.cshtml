@@ -247,7 +247,8 @@
                                 </div>
                                 <div class="cart-btns">
                                     <a asp-action="GetAll" asp-controller="CartItem">View Cart</a>
-                                    <a asp-action="Checkout" asp-controller="Order" asp-route-cartId="@Model?.FirstOrDefault()?.Id" asp-route-userId="@ViewBag?.UserId">Checkout  <i class="fa fa-arrow-circle-right"></i></a>
+                                    @* <a asp-action="Checkout" asp-controller="Order" asp-route-cartId="@Model.Cart.Id" asp-route-userId="@ViewBag.UserId">Checkout  <i class="fa fa-arrow-circle-right"></i></a> *@
+                                    <a asp-action="Checkout" asp-controller="Order" asp-route-cartId="@Model.FirstOrDefault().Id" asp-route-userId="@ViewBag.UserId">Checkout  <i class="fa fa-arrow-circle-right"></i></a>
                                 </div>
                             </div>
                         </div>

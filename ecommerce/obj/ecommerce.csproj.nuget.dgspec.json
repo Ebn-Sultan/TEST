@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\ecommerce.csproj": {}
+    "D:\\Ibraheem\\DEPI\\project\\Techtonic\\ecommerce\\ecommerce.csproj": {}
   },
   "projects": {
-    "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\ecommerce.csproj": {
+    "D:\\Ibraheem\\DEPI\\project\\Techtonic\\ecommerce\\ecommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\ecommerce.csproj",
+        "projectUniqueName": "D:\\Ibraheem\\DEPI\\project\\Techtonic\\ecommerce\\ecommerce.csproj",
         "projectName": "ecommerce",
-        "projectPath": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\ecommerce.csproj",
+        "projectPath": "D:\\Ibraheem\\DEPI\\project\\Techtonic\\ecommerce\\ecommerce.csproj",
         "packagesPath": "C:\\Users\\IbraheemMohammedAbdE\\.nuget\\packages\\",
-        "outputPath": "D:\\Ibraheem\\DEPI\\DepiProjjj\\ecommerce\\obj\\",
+        "outputPath": "D:\\Ibraheem\\DEPI\\project\\Techtonic\\ecommerce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

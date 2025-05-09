@@ -41,6 +41,12 @@
                     <button id="infobtn" class="list-group-item list-group-item-action list-group-item-light p-3" onclick="getPartial('ChangePassword')"><i class="fas fa-lock text-primary"></i> Change Password</button>
                     @* <button id="orderBtn" class="list-group-item list-group-item-action list-group-item-light p-3" onclick="getPartial('Orders')"><i class="fas fa-shopping-cart text-primary"></i> Orders</button>  *@
                     <button id="shipmentBtn" class="list-group-item list-group-item-action list-group-item-light p-3" onclick="getPartial('Shipments')"><i class="fas fa-shipping-fast text-primary"></i> Shipments</button>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a asp-action="Index" asp-controller="Dashbourd" class="list-group-item list-group-item-action list-group-item-light p-3">
+                            <i class="fas fa-chart-line text-success"></i> Dashboard
+                        </a>
+                    }
                 </div>
             </div> 
         </div>
