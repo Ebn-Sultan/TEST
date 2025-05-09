@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Welcome to Electro, our sleek and powerful ASP.NET Core MVC e-commerce project! Crafted during our 9-month ITI Assiut Branch internship, this project represents a fusion of innovation and dedication.
+Welcome to Electro, our sleek and powerful ASP.NET Core MVC e-commerce project! Crafted during our DEPI internship, this project represents a fusion of innovation and dedication.
 
 ## Project Overview
 
@@ -42,16 +42,13 @@ Welcome to Electro, our sleek and powerful ASP.NET Core MVC e-commerce project! 
 
 Meet the brilliant minds behind Electro:
 
-- Mahmoud Sadek
-- Omar Ahmed Abo Ziada
-- Mahmoud Mohamed
-- Saeed Mohamed
-- Mohammed Abdelraheem
-- Anas Ashraf
-- Abdallah Refaey
+- Ibraheem Mohammed Abd ElTwab
+- Mariam Osama mohammed  tawfik
+- Abdelrahman mohamed saber
+- 
 
 ## Acknowledgements
 
-Massive gratitude to our mentor, Eng. Christen Zarif, whose guidance was the wind beneath our wings at ITI. 
-A heartfelt thank you to Eng. Ayman Ayad, the Maestro of ITI Assiut Branch, for nurturing our growth in a vibrant learning environment.
+Massive gratitude to our mentor, Eng. Mohammed Sayed, whose guidance was the wind beneath our wings at DEPI. 
+for nurturing our growth in a vibrant learning environment.
 
