@@ -45,7 +45,8 @@ Meet the brilliant minds behind Electro:
 - Ibraheem Mohammed Abd ElTwab
 - Mariam Osama mohammed  tawfik
 - Abdelrahman mohamed saber
-- 
+- Mansour Hamed Mohammed
+
 
 ## Acknowledgements
 
