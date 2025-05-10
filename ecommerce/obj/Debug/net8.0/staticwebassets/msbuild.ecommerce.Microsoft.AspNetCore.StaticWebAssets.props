@@ -594,6 +594,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\d441eccc-a375-48b2-89c3-cba973135a13_product02.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\e30ac470-f416-4e21-8d88-f82cc62374ba_white-cell-phone-box-background.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ecommerce</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ecommerce</BasePath>
+      <RelativePath>img/e30ac470-f416-4e21-8d88-f82cc62374ba_white-cell-phone-box-background.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>omo7fhews7</Fingerprint>
+      <Integrity>cKuNSM0DUHMWOLXSfgGtMSrYaC+gBRmQWMnCe1467a0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\e30ac470-f416-4e21-8d88-f82cc62374ba_white-cell-phone-box-background.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\efb699c7-de50-463d-8e7e-c809f718faf2_download (6).jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ecommerce</SourceId>

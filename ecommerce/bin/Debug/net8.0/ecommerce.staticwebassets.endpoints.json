@@ -2791,6 +2791,88 @@
       ]
     },
     {
+      "Route": "img/e30ac470-f416-4e21-8d88-f82cc62374ba_white-cell-phone-box-background.jpg",
+      "AssetFile": "img/e30ac470-f416-4e21-8d88-f82cc62374ba_white-cell-phone-box-background.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8186596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cKuNSM0DUHMWOLXSfgGtMSrYaC+gBRmQWMnCe1467a0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 14:45:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cKuNSM0DUHMWOLXSfgGtMSrYaC+gBRmQWMnCe1467a0="
+        }
+      ]
+    },
+    {
+      "Route": "img/e30ac470-f416-4e21-8d88-f82cc62374ba_white-cell-phone-box-background.omo7fhews7.jpg",
+      "AssetFile": "img/e30ac470-f416-4e21-8d88-f82cc62374ba_white-cell-phone-box-background.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8186596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cKuNSM0DUHMWOLXSfgGtMSrYaC+gBRmQWMnCe1467a0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 14:45:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "omo7fhews7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cKuNSM0DUHMWOLXSfgGtMSrYaC+gBRmQWMnCe1467a0="
+        },
+        {
+          "Name": "label",
+          "Value": "img/e30ac470-f416-4e21-8d88-f82cc62374ba_white-cell-phone-box-background.jpg"
+        }
+      ]
+    },
+    {
       "Route": "img/efb699c7-de50-463d-8e7e-c809f718faf2_download (6).jpg",
       "AssetFile": "img/efb699c7-de50-463d-8e7e-c809f718faf2_download (6).jpg",
       "Selectors": [],

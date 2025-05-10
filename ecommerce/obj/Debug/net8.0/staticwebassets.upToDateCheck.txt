@@ -30,6 +30,7 @@ wwwroot\img\8b246fdc-582b-4e9e-a3e1-c8c3c51c0e3d_efb699c7-de50-463d-8e7e-c809f71
 wwwroot\img\9c578eba-b336-4da0-a696-6e84f780ad8a_2559d00a-0afd-4388-864b-735208fc0220_ChatGPT Image Apr 29, 2025, 05_53_08 PM.png
 wwwroot\img\d083ef63-128e-457a-97f3-8ae0f3fe270f_ASUS ROG Zephyrus S - Evan Winters _ Triumph.jpeg
 wwwroot\img\d441eccc-a375-48b2-89c3-cba973135a13_product02.png
+wwwroot\img\e30ac470-f416-4e21-8d88-f82cc62374ba_white-cell-phone-box-background.jpg
 wwwroot\img\efb699c7-de50-463d-8e7e-c809f718faf2_download (6).jpg
 wwwroot\img\f75488d9-63b4-4296-90cb-b0c0429afeca_download (11).jpg
 wwwroot\img\logo.png

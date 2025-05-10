@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3cFiNBhZiDN2uUVBXBzNCQbezdRk7oBcJAQWWAlpHjs=",
+  "Hash": "PUUNz6Q/1liy1l+JCiacbBSOgim+Wu9Kut6jzTNJokE=",
   "Source": "ecommerce",
   "BasePath": "_content/ecommerce",
   "Mode": "Default",
@@ -771,6 +771,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\d441eccc-a375-48b2-89c3-cba973135a13_product02.png"
+    },
+    {
+      "Identity": "D:\\Ibraheem\\DEPI\\project\\Techtonic\\ecommerce\\wwwroot\\img\\e30ac470-f416-4e21-8d88-f82cc62374ba_white-cell-phone-box-background.jpg",
+      "SourceId": "ecommerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Ibraheem\\DEPI\\project\\Techtonic\\ecommerce\\wwwroot\\",
+      "BasePath": "_content/ecommerce",
+      "RelativePath": "img/e30ac470-f416-4e21-8d88-f82cc62374ba_white-cell-phone-box-background#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "omo7fhews7",
+      "Integrity": "cKuNSM0DUHMWOLXSfgGtMSrYaC+gBRmQWMnCe1467a0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\e30ac470-f416-4e21-8d88-f82cc62374ba_white-cell-phone-box-background.jpg"
     },
     {
       "Identity": "D:\\Ibraheem\\DEPI\\project\\Techtonic\\ecommerce\\wwwroot\\img\\efb699c7-de50-463d-8e7e-c809f718faf2_download (6).jpg",
@@ -5216,6 +5237,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-IMfMxltZVRO93x/paTkFWuGJqKWSGzZ/m0P+b0Czz20="
+        }
+      ]
+    },
+    {
+      "Route": "img/e30ac470-f416-4e21-8d88-f82cc62374ba_white-cell-phone-box-background.jpg",
+      "AssetFile": "D:\\Ibraheem\\DEPI\\project\\Techtonic\\ecommerce\\wwwroot\\img\\e30ac470-f416-4e21-8d88-f82cc62374ba_white-cell-phone-box-background.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8186596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cKuNSM0DUHMWOLXSfgGtMSrYaC+gBRmQWMnCe1467a0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 14:45:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cKuNSM0DUHMWOLXSfgGtMSrYaC+gBRmQWMnCe1467a0="
+        }
+      ]
+    },
+    {
+      "Route": "img/e30ac470-f416-4e21-8d88-f82cc62374ba_white-cell-phone-box-background.omo7fhews7.jpg",
+      "AssetFile": "D:\\Ibraheem\\DEPI\\project\\Techtonic\\ecommerce\\wwwroot\\img\\e30ac470-f416-4e21-8d88-f82cc62374ba_white-cell-phone-box-background.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8186596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cKuNSM0DUHMWOLXSfgGtMSrYaC+gBRmQWMnCe1467a0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 14:45:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "omo7fhews7"
+        },
+        {
+          "Name": "label",
+          "Value": "img/e30ac470-f416-4e21-8d88-f82cc62374ba_white-cell-phone-box-background.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cKuNSM0DUHMWOLXSfgGtMSrYaC+gBRmQWMnCe1467a0="
         }
       ]
     },

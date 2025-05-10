@@ -247,8 +247,8 @@
                                 </div>
                                 <div class="cart-btns">
                                     <a asp-action="GetAll" asp-controller="CartItem">View Cart</a>
-                                    @* <a asp-action="Checkout" asp-controller="Order" asp-route-cartId="@Model.Cart.Id" asp-route-userId="@ViewBag.UserId">Checkout  <i class="fa fa-arrow-circle-right"></i></a> *@
-                                    <a asp-action="Checkout" asp-controller="Order" asp-route-cartId="@Model.FirstOrDefault().Id" asp-route-userId="@ViewBag.UserId">Checkout  <i class="fa fa-arrow-circle-right"></i></a>
+                                    @* <a asp-action="Checkout" asp-controller="Order" asp-route-cartId="@Model.CartItem.Id" asp-route-userId="@ViewBag.UserId">Checkout  <i class="fa fa-arrow-circle-right"></i></a> *@
+                                    <a asp-action="Checkout" asp-controller="Order" asp-route-cartId="@Model.FirstOrDefault().CartId" asp-route-userId="@ViewBag.UserId">Checkout  <i class="fa fa-arrow-circle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -399,7 +399,8 @@
     </div>
 
     <div class="cart-btns container text-center">
-        <a class="btn btn-success checkout-btn" asp-action="Checkout" asp-controller="Order" asp-route-cartId="@Model?.FirstOrDefault()?.Id" asp-route-userId="@ViewBag?.UserId">Checkout  <i class="fa fa-arrow-circle-right"></i></a>
-        @* <a class="btn btn-success checkout-btn" asp-action="Checkout" asp-controller="Order" asp-route-cartId="@Model?.FirstOrDefault()?.Id" asp-route-userId="@ViewBag?.UserId">Checkout Now <i class="fa fa-arrow-circle-right"></i></a> *@
+        <a class="btn btn-success checkout-btn" asp-action="Checkout" asp-controller="Order" asp-route-cartId="@Model?.FirstOrDefault()?.CartId" asp-route-userId="@ViewBag?.UserId">Checkout Now <i class="fa fa-arrow-circle-right"></i></a>
+        @* <p><strong>CartId:</strong> @Model?.FirstOrDefault()?.CartId</p> *@
+        @* <p><strong>UserId:</strong> @ViewBag?.UserId</p> *@
     </div>
 </main>

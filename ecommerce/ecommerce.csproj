@@ -5,6 +5,9 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 	</PropertyGroup>
 	<ItemGroup>
+	  <Compile Remove="Views\Shared\_AuthLayout.cshtml.cs" />
+	</ItemGroup>
+	<ItemGroup>
 		<PackageReference Include="MailKit" Version="4.5.0" />
 		<PackageReference Include="Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter" Version="8.0.10" />
 		<PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.10" />
